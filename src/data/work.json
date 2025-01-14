@@ -1,76 +1,46 @@
 {
-    "entries": [
-        {
-            "img-small": "{{webRoot}}/assets/images/portfolio-small-1.jpg",
-            "img-full": "{{webRoot}}/assets/images/portfolio-1.jpg",
-            "title": "Night Party",
-            "description": "Poster illustration created for a club's annual summer party. Also created stickers, logos and various website elements.",
-            "client": "ACME Design Limited",
-            "category": "Illustration"
-        },
-        {
-            "img-small": "{{webRoot}}/assets/images/portfolio-small-2.jpg",
-            "img-full": "{{webRoot}}/assets/images/portfolio-2.jpg",
-            "title": "Skull & Cat",
-            "description": "Custom logo created for a local tatoo artist. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam consectetur magna nunc, ut egestas sem egestas non.",
-            "client": "Super 8 Design",
-            "category": "Logo & Branding"
-        },
-        {
-            "img-small": "{{webRoot}}/assets/images/portfolio-small-3.jpg",
-            "img-full": "{{webRoot}}/assets/images/portfolio-3.jpg",
-            "title": "Warrior Skull",
-            "description": "Nulla nec elit eu neque faucibus molestie sed et nulla. Aliquam placerat felis ipsum, non pellentesque tortor ultrices eget. Suspendisse ornare bibendum orci, sit amet aliquet erat faucibus et.",
-            "client": "Waterfall Theatre",
-            "category": "Poster Design"
-        },
-        {
-            "img-small": "{{webRoot}}/assets/images/portfolio-small-4.jpg",
-            "img-full": "{{webRoot}}/assets/images/portfolio-4.jpg",
-            "title": "Halloween",
-            "description": "Donec congue rutrum felis quis vestibulum. Vestibulum dictum libero eu sapien porttitor ultricies. Proin non dolor et nulla blandit vestibulum sed ut purus.",
-            "client": "Tesco",
-            "category": "Advert Design"
-        },
-        {
-            "img-small": "{{webRoot}}/assets/images/portfolio-small-5.jpg",
-            "img-full": "{{webRoot}}/assets/images/portfolio-5.jpg",
-            "title": "Inca Skull",
-            "description": "Phasellus consectetur orci ut ante gravida tempor. Praesent volutpat tincidunt enim sed dictum. Curabitur neque urna, rhoncus id neque luctus, finibus ornare libero.",
-            "client": "Super 8 Design",
-            "category": "Illustration"
-        },
-        {
-            "img-small": "{{webRoot}}/assets/images/portfolio-small-6.jpg",
-            "img-full": "{{webRoot}}/assets/images/portfolio-6.jpg",
-            "title": "Snake Head",
-            "description": "Vestibulum eget lectus odio. Curabitur semper, nisi nec gravida pellentesque, justo risus ultricies leo, sed semper eros nisi ut nisl. Ut nec mattis arcu. Donec eu lobortis leo.",
-            "client": "Petrolhead Designs",
-            "category": "Illustration"
-        },
-        {
-            "img-small": "{{webRoot}}/assets/images/portfolio-small-7.jpg",
-            "img-full": "{{webRoot}}/assets/images/portfolio-7.jpg",
-            "title": "Inca Skull",
-            "description": "Poster illustration created for a club's annual summer party. Also created stickers, logos and various website elements.",
-            "client": "VonHaus Designs",
-            "category": "Illustration"
-        },
-        {
-            "img-small": "{{webRoot}}/assets/images/portfolio-small-8.jpg",
-            "img-full": "{{webRoot}}/assets/images/portfolio-8.jpg",
-            "title": "Happy Cactus",
-            "description": "Sed quis mauris id quam rutrum ullamcorper. Donec faucibus eget elit nec iaculis. Vivamus laoreet consectetur felis at consequat. Sed finibus turpis in nisl molestie, eu dignissim nulla pharetra.",
-            "client": "JD Limited",
-            "category": "Logo & Branding"
-        },
-        {
-            "img-small": "{{webRoot}}/assets/images/portfolio-small-9.jpg",
-            "img-full": "{{webRoot}}/assets/images/portfolio-9.jpg",
-            "title": "Octopus Coffee",
-            "description": "Proin in sem vitae ante efficitur tempor. Nam pellentesque, risus quis pulvinar eleifend, magna massa porttitor dui, mattis vehicula eros erat eu quam. Vivamus vel leo odio.",
-            "client": "Sentry Limited",
-            "category": "Logo & Branding"
-        }
-    ]
+  "entries": [
+    {
+      "img-small": "{{webRoot}}/assets/images/dolidoc.jpeg",
+      "img-full": "{{webRoot}}/assets/images/dolidoc.jpeg",
+      "title": "Dolidoc App",
+      "description": "This app facilitates seamless appointment booking between doctors and patients. It includes a clinic role where multiple doctors are linked to a specific clinic, providing a comprehensive solution for healthcare management. The app also features subscription plans tailored for both doctors and clinics, ensuring flexibility and scalability. With its intuitive interface and robust functionality, the app simplifies scheduling and improves healthcare accessibility.",
+      "client": "Wise 360 Solutions PVT LTD.",
+      "category": "Mobile Applications (Android & iOS)"
+    },
+
+    {
+      "img-small": "{{webRoot}}/assets/images/yoga.jpeg",
+      "img-full": "{{webRoot}}/assets/images/yoga.jpeg",
+      "title": "Real-Time Yoga Pose Detection App",
+      "description": "A cutting-edge fitness app that leverages machine learning to detect yoga poses in real-time. Using advanced pose estimation models, the app evaluates users' movements, provides feedback on posture accuracy, and tracks their exercise progress. It also maintains a detailed record of completed exercises, allowing users to monitor their consistency and improvement over time. This app combines technology and wellness, offering a unique and engaging way to practice yoga with precision.",
+      "client": "AUST Student",
+      "category": "Mobile Applications (Android & iOS)"
+    },
+    {
+      "img-small": "{{webRoot}}/assets/images/telemedicine.jpeg",
+      "img-full": "{{webRoot}}/assets/images/telemedicine.jpeg",
+      "title": "Telemedicine",
+      "description": "A comprehensive telemedicine platform enabling users to book appointments with doctors and conduct secure video consultations. The web app includes features for uploading and managing prescriptions, ensuring a streamlined healthcare experience. Real-time notifications keep users updated on appointment statuses and reminders, enhancing engagement and convenience. This solution bridges the gap between patients and healthcare providers, offering a modern and efficient approach to virtual healthcare.",
+      "client": "COMSATS University Students",
+      "category": "Website Application"
+    },
+    {
+      "img-small": "{{webRoot}}/assets/images/relaxation.jpeg",
+      "img-full": "{{webRoot}}/assets/images/relaxation.jpeg",
+      "title": "Relaxation App",
+      "description": "A wellness-focused app designed to help users overcome panic attacks through guided exercises and practical tools. It features a dedicated store offering resources for managing anxiety, alongside personalized exercise, sleep, and water reminders to promote healthy habits. Users can add journals to track their progress, and uplifting mantras provide emotional support. This holistic app empowers users to take charge of their mental well-being with accessible and effective solutions.",
+      "client": "Wise 360 Solutions PVT LTD.",
+      "category": "Mobile Applications (Android & iOS)"
+    },
+    {
+      "img-small": "{{webRoot}}/assets/images/community_hub.jpeg",
+      "img-full": "{{webRoot}}/assets/images/community_hub.jpeg",
+      "title": "Community Hub",
+      "description": "A dynamic platform connecting skilled laborers with clients to collaborate on projects seamlessly. The web app facilitates real-time interactions through integrated chat and video calling features, enabling efficient communication. It also ensures secure transactions with robust payment gateway integration, providing a trustworthy environment for exchanging services. This app serves as a comprehensive hub for bridging the gap between service providers and clients, fostering collaboration and building lasting professional relationships.",
+      "client": "COMSATS University Students",
+      "category": "Website Application"
+    }
+    
+  ]
 }

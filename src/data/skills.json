@@ -2,32 +2,52 @@
     "entries": [
         {
             "logo": "{{webRoot}}/assets/images/figma.svg",
-            "skill": "Figma",
+            "skill": "Javascript",
             "percent": "75"
         },
         {
             "logo": "{{webRoot}}/assets/images/sketch.svg",
-            "skill": "Sketch",
+            "skill": "Typescript",
             "percent": "95"
         },
         {
             "logo": "{{webRoot}}/assets/images/photoshop.svg",
-            "skill": "Photoshop",
+            "skill": "Tailwind",
             "percent": "65"
         },
         {
             "logo": "{{webRoot}}/assets/images/xd.svg",
-            "skill": "XD",
+            "skill": "Redux",
             "percent": "35"
         },
         {
             "logo": "{{webRoot}}/assets/images/illustrator.svg",
-            "skill": "Illustrator",
-            "percent": "98"
+            "skill": "React Native",
+            "percent": "80"
         },
         {
             "logo": "{{webRoot}}/assets/images/indesign.svg",
-            "skill": "Indesign",
+            "skill": "Next.js",
+            "percent": "45"
+        },
+        {
+            "logo": "{{webRoot}}/assets/images/indesign.svg",
+            "skill": "React.js",
+            "percent": "45"
+        },
+        {
+            "logo": "{{webRoot}}/assets/images/indesign.svg",
+            "skill": "Express.js",
+            "percent": "45"
+        },
+        {
+            "logo": "{{webRoot}}/assets/images/indesign.svg",
+            "skill": "Node.js",
+            "percent": "45"
+        },
+        {
+            "logo": "{{webRoot}}/assets/images/indesign.svg",
+            "skill": "MongoDB",
             "percent": "45"
         }
     ]
